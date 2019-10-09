@@ -11,8 +11,8 @@ body {
 .card {
     background-color: grey;
     position: relative;
-    left: 35%;
-    width: 100%;
+    left: 50%;
+    width: 90%;
     padding: 10px;
 }
 
