@@ -4,15 +4,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     padding: 4em, 1em;
-    background-color: rgba(0, 0, 0, 0.596);
+    background-color: rgba(0, 0, 0, 0.712);
     color: whitesmoke;
 }
 
 .card {
     background-color: grey;
     position: relative;
-    left: 50%;
-    width: 90%;
+    width: 100%;
     padding: 10px;
 }
 
