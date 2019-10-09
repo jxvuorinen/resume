@@ -39,6 +39,12 @@ h2 {
     text-transform: uppercase;
 }
 
+.about {
+    padding: 20px;
+}
+.info {
+    font-size: 14px;
+}
 .header p {
     position: absolute;
     left: 250px;
@@ -47,17 +53,42 @@ h2 {
 #infobasic {
     width: 50%;
     position: absolute;
-}
+}   
 #lang {
-    width: 50%;
     position: relative;
-    left: 350px;
-    top: -45px;
-}
-.info {
-    position: relative;
+    left: 50%;
+    top: -40px;
 }
 
 ul {
     list-style-type: none;
+}
+th {
+    text-decoration-line: underline;
+}
+
+#work th, #work td {
+    text-align: left;
+    font-size: 14px;
+    padding: 10px;
+}
+#work {
+    width: 100%;
+    padding: 5px;
+    margin: 10px;
+}
+
+
+#edu th, #edu td {
+    text-align: left;
+    font-size: 14px;
+    padding: 10px;
+}
+#edu {
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+.date {
+    font-size: 10px;
 }
