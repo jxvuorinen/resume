@@ -6,13 +6,14 @@ body {
     padding: 4em, 1em;
     background-color: rgba(0, 0, 0, 0.712);
     color: whitesmoke;
+    overflow-x: hidden;
 }
 
 .card {
     background-color: grey;
     position: relative;
-    width: 100%;
     padding: 10px;
+    margin: 10px;
 }
 
 .header {
