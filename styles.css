@@ -56,11 +56,11 @@ h3 {
 
 .info {
     position: absolute;
+    width: 50%;
 }
 
 #infobasic td {
     padding: auto;
-    width: 50%;
 }
 
 .lang {
