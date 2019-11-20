@@ -1,2 +1,2 @@
 # resume
-My resume made for a university-course with the aim of learning to publish a static website using HTML and CSS.
+THis is my resume required by a university course. My goal is to publish a static website with HTML and CSS.
